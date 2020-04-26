@@ -38,7 +38,6 @@ class Router {
                 return true;
             }
         }
-        return false;
     }
 
     public function run(){
